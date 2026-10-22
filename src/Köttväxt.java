@@ -1,3 +1,4 @@
+//Köttväxt ärver från Plant med "extends Plant" och ärver metoderna getHöjd/Namn som har skapats i Plant. Så Köttväxt blir till en sorts "Plant" genom arvet.
 public class Köttväxt extends Plant {
     private static final double BASE_AMOUNT = 0.1;
     private static final double LITER_PER_METER = 0.2;
